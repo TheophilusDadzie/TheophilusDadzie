@@ -6,7 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-https://rhyme.com/run/3JJGHM
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
